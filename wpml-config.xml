@@ -1,0 +1,7 @@
+<wpml-config>
+    <admin-texts>
+        <key name="kntnt-post-avatar">
+            <key name="prefix"/>
+        </key>
+    </admin-texts>
+</wpml-config>
