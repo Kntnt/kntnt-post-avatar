@@ -20,7 +20,7 @@ namespace Kntnt\Post_Avatar;
 defined( 'WPINC' ) || die;
 
 // Define WP_DEBUG as TRUE and uncomment next line to debug this plugin.
-define( 'KNTNT_POST_AVATAR', true );
+// define( 'KNTNT_POST_AVATAR', true );
 
 spl_autoload_register( function ( $class ) {
 	$ns_len = strlen( __NAMESPACE__ );
