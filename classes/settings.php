@@ -30,7 +30,6 @@ class Settings extends Abstract_Settings {
 			'label' => __( "Post's URL prefix", 'kntnt-post-avatar' ),
 			'size' => 80,
 			'description' => sprintf( __( 'Enter the <em>PREFIX</em> part of this URL <em>%s/<strong>PREFIX</strong>/SLUG</em>, where <em>SLUG</em> is the slug (i.e. "nicename") of a user. If there is a post at the resolved URL and that post has a featured image, that image will be used as the user\'s avatar.', 'kntnt-post-avatar' ), get_site_url() ),
-			'default' => '',
 		];
 
 		$fields['submit'] = [
