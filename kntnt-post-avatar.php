@@ -6,7 +6,7 @@
  * Plugin URI:        https://github.com/kntnt/kntnt-post-avatar
  * GitHub Plugin URI: https://github.com/kntnt/kntnt-post-avatar
  * Description:       Replaces avatars with featured images of posts
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
